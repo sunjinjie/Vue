@@ -1,0 +1,43 @@
+{
+    "code": 0,
+    "message": "登录成功",
+    "data": {
+      "token":"abcdedfhijklmnokrjsuvmxyz",
+      "users": [
+        {
+          "username": "admin",
+          "password": "admin",
+
+          "name": "管理员",
+          "sex": "男",
+          "age": 21,
+          "born": "1997-12-2",
+          "worktime": 3,
+          "mobile": 123456789,
+          "tel": 1234567,
+          "email": "592513724@qq.com",
+          "place": "成都 龙泉驿",
+          "hometown": "泸州 纳溪",
+          "selfintro": "嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦"
+
+        },
+        {
+          "username": "sjj",
+          "password": "sjj",
+
+          "name": "孙进杰",
+          "sex": "男",
+          "age": 21,
+          "born": "Wed Oct 29 1997 00:00:00 GMT+0800",
+          "worktime": 3,
+          "mobile": 123456789,
+          "tel": 1234567,
+          "email": "592513724@qq.com",
+          "place": "成都 龙泉驿",
+          "hometown": "泸州 纳溪",
+          "selfintro": "嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦嗯哼哦"
+
+        }
+      ]
+    }
+}
